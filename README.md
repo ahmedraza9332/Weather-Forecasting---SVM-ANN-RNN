@@ -48,17 +48,12 @@ The dataset includes historical weather records such as:
    cd Weather-Forecasting---SVM-ANN-RNN
    ```
 
-2. **Install required libraries:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Open the notebook in Jupyter:**
+2. **Open the notebook in Jupyter:**
    ```bash
    jupyter notebook code.ipynb
    ```
 
-4. **Run the notebook:**
+3. **Run the notebook:**
    - The notebook contains all three models (SVM, ANN, RNN) implemented sequentially
    - Execute cells in order from top to bottom
    - Data preprocessing, model training, and evaluation are all included
@@ -76,16 +71,6 @@ The dataset includes historical weather records such as:
 - Seaborn
 - Jupyter Notebook
 
-Create a `requirements.txt` file with:
-```
-numpy>=1.19.0
-pandas>=1.2.0
-scikit-learn>=0.24.0
-tensorflow>=2.4.0
-matplotlib>=3.3.0
-seaborn>=0.11.0
-jupyter>=1.0.0
-```
 
 ---
 
