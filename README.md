@@ -9,9 +9,7 @@ This project focuses on predicting weather conditions using three machine learni
 ```
 Weather-Forecasting---SVM-ANN-RNN/
 │
-├── datasets/                # Weather dataset used (optional/private)
 ├── code.ipynb              # Main Jupyter notebook with all models (SVM, ANN, RNN)
-├── requirements.txt         # Python dependencies
 ├── README.md               # Project overview and instructions
 └── LICENSE                 # Open source license (MIT, etc.)
 ```
@@ -101,28 +99,6 @@ Each section of the notebook evaluates its respective model using:
 - **R² Score** - Coefficient of determination
 
 Graphs and metrics are included for performance comparison between all three models.
-
----
-
-## 🎯 Model Performance Comparison
-
-| Model | Accuracy | RMSE | Training Time |
-|-------|----------|------|---------------|
-| SVM   | TBD      | TBD  | TBD          |
-| ANN   | TBD      | TBD  | TBD          |
-| RNN   | TBD      | TBD  | TBD          |
-
-*Results will be updated after running experiments*
-
----
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ---
 
