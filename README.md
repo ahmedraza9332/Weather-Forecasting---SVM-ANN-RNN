@@ -10,6 +10,7 @@ This project focuses on predicting weather conditions using three machine learni
 Weather-Forecasting---SVM-ANN-RNN/
 │
 ├── code.ipynb              # Main Jupyter notebook with all models (SVM, ANN, RNN)
+├── 00826099999.csv         # Dataset used with the file
 ├── README.md               # Project overview and instructions
 └── LICENSE                 # Open source license (MIT, etc.)
 ```
