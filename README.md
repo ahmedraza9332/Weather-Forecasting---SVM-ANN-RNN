@@ -136,7 +136,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 **Ahmed Raza**
 - GitHub: [@ahmedraza9332](https://github.com/ahmedraza9332)
-- LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/ahmed-raza-5b71b81b7/)
 
 ---
 
